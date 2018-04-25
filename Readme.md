@@ -1,4 +1,4 @@
-# assignment2  
+# Assignment2  
 
 팀장  
 2017202053 장준혜(jjhttoz)  
